@@ -8,7 +8,8 @@ Step 3: Choose a Code Generation Tool
 Choose a code generation tool that supports Swagger/OpenAPI, such as Swagger Codegen.
 
 Step 4: Generate Project Skeleton
-Use the selected code generation tool to generate the project skeleton. The command might look something like this:
+Use the selected code generation tool to generate the project skeleton. The command might look something like this: 
+Download swagger-codegen - https://swagger.io/tools/swagger-codegen/download/
 
 ```swagger-codegen generate -i swagger.json -l [language] -o [output-directory]```
 
