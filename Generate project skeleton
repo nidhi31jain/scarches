@@ -1,0 +1,11 @@
+Step 1: Create/Open Swagger Definition in Swagger Hub
+Create or open your Swagger definition in Swagger Hub.
+Ensure that the Swagger definition is complete with all the necessary information about your API, including endpoints, request/response models, and any additional metadata.
+Step 2: Export Swagger Definition
+Export the Swagger definition from Swagger Hub. This can usually be done in JSON or YAML format.
+
+Step 3: Choose a Code Generation Tool
+Choose a code generation tool that supports Swagger/OpenAPI, such as Swagger Codegen.
+
+Step 4: Generate Project Skeleton
+Use the selected code generation tool to generate the project skeleton. The command might look something like this:
