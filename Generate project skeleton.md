@@ -1,6 +1,6 @@
 # Primary - Go to beow uerl 
 https://editor.swagger.io
-<br>
+<br><br>
 ![Example](/Screenshot%202023-11-14%20at%2010.46.56.png)
 
 # Secondary 
