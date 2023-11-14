@@ -1,4 +1,4 @@
-# Primary - Go to beow uerl 
+# Primary - Go to beow url and genrate code as per screenshot 
 https://editor.swagger.io
 <br><br>
 ![Example](/Screenshot%202023-11-14%20at%2010.46.56.png)
