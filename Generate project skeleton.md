@@ -1,7 +1,7 @@
 # Primary - Go to beow uerl 
 https://editor.swagger.io
 <br>
-![Example](/Screenshot 2023-11-14 at 10.46.56.png)
+![Example](/Screenshot%202023-11-14%20at%2010.46.56.png)
 
 # Secondary 
 Step 1: Create/Open Swagger Definition in Swagger Hub
